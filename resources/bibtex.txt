@@ -1,6 +1,17 @@
-@inproceedings{author20XXtitle,
-  title={Please cite me},
-  author={Author, First and Author, Second and Author, Third},
-  booktitle={Conference},
-  year={20XX}
+@misc{https://doi.org/10.48550/arxiv.2212.08861,
+  doi = {10.48550/ARXIV.2212.08861},
+  
+  url = {https://arxiv.org/abs/2212.08861},
+  
+  author = {Kim, Gyeongnyeon and Jang, Wooseok and Lee, Gyuseong and Hong, Susung and Seo, Junyoung and Kim, Seungryong},
+  
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {DAG: Depth-Aware Guidance with Denoising Diffusion Probabilistic Models},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {Creative Commons Attribution 4.0 International}
 }
