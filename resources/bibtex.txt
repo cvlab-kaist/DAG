@@ -1,4 +1,4 @@
-@article{kim2022dag,
+@article{kim2022dag, 
   title   = {DAG: Depth-Aware Guidance with Denoising Diffusion Probabilistic Models},
   author  = {Gyeongnyeon Kim and Wooseok Jang and Gyuseong Lee and Susung Hong and Junyoung Seo and Seungryong Kim},
   year    = {2022},
